@@ -28,12 +28,14 @@ Original image source (left) and a rendered image after pruning at a specific to
 
 Original image (left) and and a rendered image after flipping horizontally with only using 
 binary tree manipulation (right):
+
 ![fnr-354x200](https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/2091f24e-f65c-42b0-8ecf-c417c4eb336e) ![fnr-flip](https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/51da3289-1e37-4ed2-a0fa-b409f9f6022f)
 
 Original image (left) and a rendered image both pruned at a specific tolerance, and flipped using
 binary tree manipulation (right):
 
-![kkkk-kmnn-480x270](https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/7692e3bb-c8d3-4c4e-99b4-5711f761a649) ![kkkk-prune01-flip](https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/e62d6041-3070-4dbf-ac97-e0d62efac61f)
+<img src="https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/7692e3bb-c8d3-4c4e-99b4-5711f761a649" width="340">
+<img src="https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/e62d6041-3070-4dbf-ac97-e0d62efac61f" width="340">
 
 An animated GIF to show the first 20 partitions of the ImgTree constructing the image based on
 average color values:
