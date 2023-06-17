@@ -22,7 +22,7 @@ The project consists of the following files:
 
 # Examples
 
-Original image source (left) and a rendered image after pruning at a specific tolerance (right):
+Original image source (left) and a rendered image after pruning at a tolerance 0.5:
 
 <img src="https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/3f7f3e17-b902-46e8-b3e3-de76c0195c45" width="340"> <img src="https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/dc23a478-7e91-43f3-b41f-5011610b0a20" width="340">
 
