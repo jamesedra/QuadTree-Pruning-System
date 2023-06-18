@@ -26,10 +26,10 @@ Original image source (left) and a rendered image after pruning at a tolerance 0
 
 <img src="https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/3f7f3e17-b902-46e8-b3e3-de76c0195c45" width="340"> <img src="https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/dc23a478-7e91-43f3-b41f-5011610b0a20" width="340">
 
-Original image (left) and and a rendered image after flipping horizontally with only using 
+Original image (left) and a rendered image after flipping horizontally with only using 
 binary tree manipulation (right):
 
-![fnr-354x200](https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/2091f24e-f65c-42b0-8ecf-c417c4eb336e) ![fnr-flip](https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/51da3289-1e37-4ed2-a0fa-b409f9f6022f)
+<img src="https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/2091f24e-f65c-42b0-8ecf-c417c4eb336e" width="340"> <img src="https://github.com/jamesedra/Memo-ized-Binary-Tree-for-Image-Processing-and-Compression-/assets/107374254/51da3289-1e37-4ed2-a0fa-b409f9f6022f" width="340">
 
 Original image (left) and a rendered image both pruned at a specific tolerance, and flipped using
 binary tree manipulation (right):
