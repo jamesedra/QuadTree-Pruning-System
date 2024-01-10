@@ -1,4 +1,4 @@
-# Memo-ized Binary Tree for Image Processing and Compression
+# Quad-Tree Pruning for Image Processing and Compression
 
 # Project Overview
 
